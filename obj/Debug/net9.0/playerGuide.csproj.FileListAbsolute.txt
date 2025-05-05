@@ -12,3 +12,4 @@ C:\Users\Acer\Desktop\CODE\playerGuide\obj\Debug\net9.0\refint\playerGuide.dll
 C:\Users\Acer\Desktop\CODE\playerGuide\obj\Debug\net9.0\playerGuide.pdb
 C:\Users\Acer\Desktop\CODE\playerGuide\obj\Debug\net9.0\playerGuide.genruntimeconfig.cache
 C:\Users\Acer\Desktop\CODE\playerGuide\obj\Debug\net9.0\ref\playerGuide.dll
+C:\Users\Acer\Desktop\CODE\playerGuide\obj\Debug\net9.0\playerGuide.sourcelink.json
