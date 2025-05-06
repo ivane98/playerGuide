@@ -1,9 +1,5 @@
-﻿
-string name;
+﻿var letter = "2";
 
-name = Console.ReadLine();
-Console.WriteLine("Hi " + name);
+int num = int.Parse(letter);
 
-int a, b, c;
-
-a = b = c = 10;
+Console.WriteLine(num);
